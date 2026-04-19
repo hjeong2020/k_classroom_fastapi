@@ -1,7 +1,7 @@
 # --- Environment & IDE Files ---
 # Virtual Environments
 .venv/
-venv/ # Added common alternative name for venv
+venv/
 
 # IDE Configuration Files (PyCharm, VSCode, etc.)
 .idea/
