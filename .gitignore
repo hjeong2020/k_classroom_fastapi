@@ -1,0 +1,20 @@
+# --- Environment & IDE Files ---
+# Virtual Environments
+.venv/
+venv/ # Added common alternative name for venv
+
+# IDE Configuration Files (PyCharm, VSCode, etc.)
+.idea/
+*.iml
+
+# macOS Metadata
+.DS_Store
+
+# --- Python Build Artifacts ---
+# Bytecode cache directories and files
+__pycache__/
+*.pyc
+
+# --- Generated Data Directories ---
+# Database or environment-specific data folders
+app/database/ 
